@@ -12,6 +12,7 @@
     "High-End Renovations (S&M)",
     "Digital Ecosystems (QubitX)"
   ],
+  ```
   "mission": "Scaling to S&P 500 & Global Expansion",
   "current_phase": "Architecture & Innovation",
   "contact": "hcalle@qubitxenterprise.com"
