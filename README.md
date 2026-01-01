@@ -12,11 +12,14 @@
     "High-End Renovations (S&M)",
     "Digital Ecosystems (QubitX)"
   ],
-  ```
   "mission": "Scaling to S&P 500 & Global Expansion",
   "current_phase": "Architecture & Innovation",
   "contact": "hcalle@qubitxenterprise.com"
 }
+```
+
+```bash
 >_ Terminal Output:
-"The future is not found; it is built. 
+"The future is not found; it is built.
 Bridging the gap between physical structures and digital intelligence."
+```
