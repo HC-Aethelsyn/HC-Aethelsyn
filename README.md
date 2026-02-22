@@ -17,5 +17,5 @@
   "current_phase": "Core Development & Infrastructure Building (Builder Mode)",
   "contact": "hcalle@qubitxenterprise.com"
 }
-_ Terminal Output:
+```_ Terminal Output:
 "The future is not found; it is built. Currently engineering the core systems that will bridge physical businesses with digital intelligence."
